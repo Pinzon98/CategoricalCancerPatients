@@ -1,0 +1,40 @@
+.titulo{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: #048BA8;
+    color: white;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.contenido{
+    display: flex;
+    justify-content: center;
+}
+
+.color{
+    background-color: #7C7287;
+    border-radius: 10px;
+    width: 10%;
+    height: calc(10vw * 0.5);
+    margin: auto 0;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.input{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-right: 2.5%;
+    width: 80%;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.respuesta{
+    text-align: center;
+    font-size: 3rem;
+    padding: 1rem;
+}
